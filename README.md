@@ -1,5 +1,7 @@
 # Edinburgh AgenticAI
 
+**🌐 Website: https://edinburgh-agenticai.github.io/Edinburgh-AgenticAI/**
+
 [![Website](https://img.shields.io/badge/website-live-brightgreen)](https://edinburgh-agenticai.github.io/Edinburgh-AgenticAI/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
